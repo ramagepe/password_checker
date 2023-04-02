@@ -5,3 +5,6 @@ Run the checkmypass.py script using `python` cli tool and passing the password t
 ```
 python checkmypass.py mypassword123
 ```
+## TODO
+ - Secure file traffic and storage --no-flags
+ - Accept raw format as an argument (symbols not taken as valid chars)
