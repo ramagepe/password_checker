@@ -3,7 +3,7 @@ A script that uses Pwned Passwords API to tell how many times a given password h
 ## How to use
 Run the checkmypass.py script using `python` cli tool and passing the password to check as an argument
 ```
-python checkmypass.py mypassword123
+python checkmypass.py "mypassword123"
 ```
 ### TODO
  - Secure file traffic and storage --no-flags
