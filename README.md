@@ -5,7 +5,7 @@ Run the checkmypass.py script using `python` cli tool and passing the password t
 ```
 python checkmypass.py "mypassword123"
 ```
-Notice: if the password is not passed between "", the shell won't read special characters
+**Note**: if the password is not passed between "", the shell won't read special characters
 
 ### TODO
  - Secure file traffic and storage --no-flags
